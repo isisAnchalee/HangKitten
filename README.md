@@ -1,6 +1,6 @@
 #HangKitten
 
-Play as guesse or checker against smart computer AI.
+Play as guesser or checker against smart computer AI.
 
 
 #=^.^=
